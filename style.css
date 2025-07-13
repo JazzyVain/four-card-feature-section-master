@@ -7,10 +7,9 @@ body {
   flex-direction: column;
   font-family: "Poppins", sans-serif;
   overflow: hidden;
-  transform: scale(0.75);
+  transform: scale(0.70);
   position: relative;
-  top: -110px;
-  height: 100vh;
+  top: -120px;
 }
 
 .titulos {
