@@ -10,6 +10,7 @@ body {
   transform: scale(0.75);
   position: relative;
   top: -110px;
+  height: 100vh;
 }
 
 .titulos {
